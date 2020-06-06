@@ -31,6 +31,5 @@ const Menu = (props)=>{
             </div>
         );
 }
-        
 
 export default Menu;
